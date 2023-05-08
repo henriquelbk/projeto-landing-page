@@ -130,3 +130,22 @@ A sua Landing Page deve conter:
 4.  Abra um novo Pull Request (PR) com a frase **PR para correção**. Caso não saiba como fazê-lo, assista a esse [vídeo](https://www.canva.com/design/DAFY4nS5W2c/t92uFMR61YtmA7bCwj2S1Q/watch).
 5.  Envie o link do seu PR e do surge no [formulário de entrega](https://forms.gle/nrh5KpDhAMwXBjC29).
 
+Link do surge: http://protective-activity.surge.sh/
+
+Prints do site:
+![image](https://user-images.githubusercontent.com/86364759/236886895-75389e51-e7be-4f47-889d-726752f34b84.png)
+![image](https://user-images.githubusercontent.com/86364759/236887011-3ea439c4-332a-46d2-ba96-eb16b29f2ca9.png)
+![image](https://user-images.githubusercontent.com/86364759/236887111-266e2e4b-9418-49a7-8353-1161ab6006ab.png)
+![image](https://user-images.githubusercontent.com/86364759/236887174-964000ff-2dc1-4d63-932f-1243f9eb7728.png)
+![image](https://user-images.githubusercontent.com/86364759/236887237-569393c5-434e-4b3c-8305-7707b445ac17.png)
+![image](https://user-images.githubusercontent.com/86364759/236887310-8f8d99c6-e5a1-4e94-a117-0d87401f5b58.png)
+![image](https://user-images.githubusercontent.com/86364759/236887402-f0e205cd-7343-4090-a690-9940a23cbaad.png)
+![image](https://user-images.githubusercontent.com/86364759/236887440-76644502-dcb8-468f-88f2-fb8555935030.png)
+![image](https://user-images.githubusercontent.com/86364759/236887484-6121e559-8ed1-457d-a2c7-0a5fc7742609.png)
+
+
+
+
+
+
+
